@@ -9,8 +9,3 @@
 include:
   - elastic-repo
 ```
-
-### Who do I talk to? ###
-
-* Craig Simpson
-* +442920020386
